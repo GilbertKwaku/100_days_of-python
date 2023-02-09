@@ -1,4 +1,4 @@
-##100 DAYS OF PYTHON CODE CAMP 
+## PYTHON CODE CAMP 
 ==============================
 [01 - Day 1 - Working with Variables in Python to Manage Data]
 [02 - Day 2 - Understanding Data Types and How to Manipulate Strings]
